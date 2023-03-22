@@ -70,7 +70,7 @@ export default class TMSList extends Component {
       return <Task tasks={currentTask} key={i} />;
     });
   }
-
+  // Table list
   render() {
     return (
       <div>
